@@ -1,30 +1,28 @@
-![Foto]()
-
----
-
 **Personalia**
 ===
-	*	Jordy Luypaert
-	*	Blankenbergse Dijk 46, 8000 Brugge
-	*	18 maart 1997
+	*	Jony Luypaert
+	*	Parkstraat 15, 8300 Knokke-Heist
+	*	25 juni 1994
 	*	Man
 	*	Belg
-	*	Vrijgezel
-	*	+3247088614
-	*	simodecl@student.arteveldehs.be
+	*	ongehuwd
+	*	+32492954162
+	*	jony.luypaert@student.arteveldehs.be
 
 ---
 
 **Opleidingen**
 ===
-* ASO Moderne Talen - Wetenschappen te Sint-Lodewijkscollege Brugge (2019-2015)
+* TSO elektrische installaties te Koninklijk Technisch Atheneum Brugge (2010-2013)
 * Grafische & Digitale media te Arteveldehogeschool Campus Mariakerke (2016- )
 
 ---
 
 **Werkervaring**
 ===
-* Ober - Havana Club Blankenberge (2015- )
+* Carrefour knokke 
+* Paasvoetbalkamp
+* ober - Tea room
 
 ---
 
@@ -47,6 +45,6 @@
 **Talenkennis**
 ===
 *	Nederlands (moedertaal)
-*	Frans (Matig)
+*	Frans (Slecht)
 *	Engels (Goed)
 *	Duits (Slecht)
